@@ -1,0 +1,8 @@
+name: FancyChairs
+version: 1.0
+main: com.lerdorf.fancychairs.FancyChairs
+api-version: 1.0
+commands:
+  fc:
+    description: Reload FancyChairs Config
+    usage: /fc
